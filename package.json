@@ -1,14 +1,14 @@
 {
-  "name": "jquery-unveil",
-  "version": "1.3.0",
-  "description": "A very lightweight plugin to lazy load images for jQuery or Zepto.js",
+  "name": "sioweb-jquery-unveil",
+  "version": "1.0.0",
+  "description": "A very lightweight plugin to lazy load images for jQuery and Webpack",
   "main": "jquery.unveil.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/njabang/unveil.git"
+    "url": "git+https://github.com/Sioweb/unveil.git"
   },
   "keywords": [
     "jquery",
@@ -18,7 +18,7 @@
   "author": "Luis Almeida",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/njabang/unveil/issues"
+    "url": "https://github.com/Sioweb/unveil/issues"
   },
-  "homepage": "https://github.com/njabang/unveil#readme"
+  "homepage": "https://github.com/Sioweb/unveil#readme"
 }
